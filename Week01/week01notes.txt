@@ -1,0 +1,50 @@
+Week 01 Notes:
+
+if { put then statement in here} 
+print statement: Console.WriteLine("  ")
+
+
+
+git init: makes a brand new place and begins tracking a repository.
+
+git clone: creates a copy of a project that already exists remotely
+
+git add: states a change.
+
+git commit: saves the snapshot to project history. completes the change-tracking process.
+Commits functions like a taking a photo.
+
+git status: shows status of changes (untracked, modified, or staged)
+
+git branch: shows the branches being worked on locally.
+
+git merge: merges lines of development together.
+
+git pull: updates the local line of development with updates from its remote counterpart.
+
+git push: updates the remote repository with any commits made locally to a branch.
+
+What is a file system?
+A file system is the structure of an operating system. Its a way of separating data into files.
+It's important to understand this because we need to know where files are to retrieve them and use them in code.
+
+PWD (print working directory) command: prints the current directory path, starting from the root.
+
+CD command: allows you to move between directories.
+
+Relative file path: hierarchal path that locates a file or folder on a file system starting from the current directory.
+
+Absolute file path: contains the root element and complete directory to locate a file.
+
+. in file path: refers to the current folder.
+
+.. in file path: referes to the folder that in one level heigher than the current folder.
+
+Version control systems: software tools that help software teams manage changes to source code over time.
+These allow you to compare files and their differences. They also allow you to merge changes prior to committing any code.
+
+Repository: archive of the code that is being worked on.
+
+Git: open source tool people install locally.
+
+GitHub: Online service that developers who use Git can connect and upload/download reasources.
